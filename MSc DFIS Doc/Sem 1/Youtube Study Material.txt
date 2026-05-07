@@ -1,0 +1,4 @@
+As per my experience, I would recommend joining TryHackMe for beginners and regularly solving its rooms to build a strong foundation. Along with that, having an account on Hack The Box for advanced practice will further enhance your skills and support your growth in the future.
+
+
+Full Linux -https://www.youtube.com/watch?v=UnVr88J9lEI
